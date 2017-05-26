@@ -1,6 +1,6 @@
 > # SKItem
 > ## Automatic implement Custom Model
-> ### KVC base model struct
+> ### KVC base model Class
 > ### Automatic implement NSCoding
 > ### Automatic implement NSCopying
 > ### Automatic implement description
